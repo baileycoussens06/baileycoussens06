@@ -1,0 +1,55 @@
+.top {
+  margin: auto;
+  width: 100%;
+  text-align: center;
+}
+.century {
+  font-family: century-gothic, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 0.1;
+}
+
+.autography {
+  font-family: 'Autography', sans-serif;
+  font-weight: 400;
+  line-height: 0.1;
+}
+.large {
+  font-size: 8vw; 
+}
+@media screen and (min-width: 800px) {
+  .large {
+     font-size: 4em;
+  }
+}
+.medium {
+  font-size: 6vw;
+}
+@media screen and (min-width: 800px) {
+  .medium {
+     font-size: 3em;
+  }
+}
+.large-c {
+  font-size: 4vw;
+}@media screen and (min-width: 800px) {
+  .large-c {
+     font-size: 2em;
+  }
+}
+.middle {
+  margin: 50px auto;
+  width: 100%;
+  text-align: center;
+}
+table {
+  margin: auto;
+  border-collapse: collapse;
+  width: 50vw;
+  font-size: 3vw;
+  text-align: center;
+}
+img {
+  height:50vw;
+}
